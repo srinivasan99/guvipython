@@ -1,4 +1,4 @@
     
-hy=input()
-print(hy.title())
-#a
+sr=input()
+print(sr.title())
+
